@@ -1,0 +1,7 @@
+classes= 1
+train  = /home/l/Documents/git/darknet/data/train.txt
+#valid  = /home/l/Documents/git/darknet/data/test.txt
+names = data/car.names
+backup = backup
+eval = car
+
